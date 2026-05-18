@@ -38,12 +38,23 @@ Tools used include Python, Excel, regression analysis, and data visualization.
 ## Repository Structure
 
 ```text
-data/
-notebooks/
 reports/
-src/
+figures/
+code/
+data/
 ```
+## Analytical Workflow
 
+The original project analysis was conducted using Excel and Python/Jupyter Notebook workflows. 
+
+Because the original notebooks were not preserved, simplified reconstruction scripts have been included to demonstrate:
+
+- preprocessing logic
+- regression methodology
+- data cleaning workflow
+- statistical modeling structure
+
+These scripts reflect the analytical approach used during the project.
 ---
 
 ## Author
